@@ -1,0 +1,6 @@
+{
+  "name": "Tornado.io",
+  "description": "A fast-paced, 3D real-time arcade destruction game where you grow a stylized tornado by absorbing objects across a city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
